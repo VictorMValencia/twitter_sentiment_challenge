@@ -24,4 +24,4 @@ Instead of printing out each tweet, save each Tweet to a CSV file with an associ
 
 ##Credits
 
-Credits to @Sirajology on Youtube for the tutorial and help with the code 
+Forked from Siraj Reval 
